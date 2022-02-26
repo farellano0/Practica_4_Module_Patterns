@@ -1,0 +1,1 @@
+console.log('Hello from the module'); //Se manda a llamar en la consola el texto que esta entre comillas simples
